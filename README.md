@@ -188,7 +188,6 @@ It helps understand which channel contributes the most to overall sales.
 ---
 
 ## Dashboard Screenshot
-
 ## Project Overview
 
 This project focuses on analyzing sales data and developing an interactive sales dashboard using Microsoft Power BI. The project demonstrates the complete data analytics process, including data preparation, analysis, visualization, dashboard development, and presentation of business insights.
@@ -197,7 +196,8 @@ The dashboard provides a clear overview of sales performance using Key Performan
 
 ### Dashboard Preview
 
-![Sales Dashboard](Dashboard_Screenshot/Sales dashboard.png)
+![Sales Dashboard](Dashboard_Screenshot/Sales_Dashboard.png)
+
 
 ---
 
