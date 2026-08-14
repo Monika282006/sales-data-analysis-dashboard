@@ -38,7 +38,7 @@ The dataset is available in the `Dataset` folder of this repository.
 
 ### Dataset File
 
-* `sales_data.xlsx`
+* `sales data.xlsx`
 
 The dataset is used as the primary source for creating the Power BI dashboard and generating the required visualizations.
 
@@ -197,7 +197,7 @@ The screenshot provides a quick visual representation of the final dashboard, in
 
 The dashboard screenshot can be viewed from:
 
-`Dashboard_Screenshot/Sales_Dashboard.png`
+`dashboard_Screenshot/Sales dashboard.png`
 
 ---
 
