@@ -189,15 +189,15 @@ It helps understand which channel contributes the most to overall sales.
 
 ## Dashboard Screenshot
 
-A screenshot of the completed Power BI dashboard is provided in the `Dashboard_Screenshot` folder.
+## Project Overview
 
-The screenshot provides a quick visual representation of the final dashboard, including the KPI cards, charts, and slicers.
+This project focuses on analyzing sales data and developing an interactive sales dashboard using Microsoft Power BI. The project demonstrates the complete data analytics process, including data preparation, analysis, visualization, dashboard development, and presentation of business insights.
+
+The dashboard provides a clear overview of sales performance using Key Performance Indicators (KPIs), charts, filters, and interactive visualizations.
 
 ### Dashboard Preview
 
-The dashboard screenshot can be viewed from:
-
-`dashboard_Screenshot/Sales dashboard.png`
+![Sales Dashboard](Dashboard_Screenshot/Sales dashboard.png)
 
 ---
 
